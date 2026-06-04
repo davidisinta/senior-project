@@ -2,7 +2,6 @@
 /// Loaded from a separate FBX file that contains only animation data.
 /// Each clip has multiple channels — one per bone — with position,
 /// rotation, and scale keyframes.
-
 module animationclip;
 
 import std.stdio;
