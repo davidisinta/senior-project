@@ -1,9 +1,4 @@
-# Senior Project — Game Engine
-
-## Table of Contents
-
-1. [Overview](#overview)
-
+# Senior Project — Sting 3D Engine and False9 Shooter Game
 ---
 
 ## Overview
