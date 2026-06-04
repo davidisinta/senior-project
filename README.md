@@ -1,4 +1,4 @@
-# Senior Project — Sting 3D Engine and False9 Shooter Game
+# Sting 3D Engine and False9 Shooter Game
 ---
 
 ## Overview
